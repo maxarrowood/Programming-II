@@ -2,7 +2,7 @@ print("Hello, world!")
 # this is a single line comment
 
 """This is a 
-multi-line comment"""
+multi-line comment """
 
 """ Arithmatic Operators
 + Add
