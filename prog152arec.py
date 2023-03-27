@@ -1,3 +1,6 @@
+import sys
+sys.setrecursionlimit(10000)
+
 def down(n):
   if n == 3:
     return n
