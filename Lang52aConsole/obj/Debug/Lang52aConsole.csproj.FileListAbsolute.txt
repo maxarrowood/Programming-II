@@ -3,3 +3,6 @@ C:\Users\arrowood.m1\Desktop\Programming-II-VS\Lang52aConsole\bin\Debug\Lang52aC
 C:\Users\arrowood.m1\Desktop\Programming-II-VS\Lang52aConsole\bin\Debug\Lang52aConsole.pdb
 C:\Users\arrowood.m1\Desktop\Programming-II-VS\Lang52aConsole\obj\Debug\Lang52aConsole.exe
 C:\Users\arrowood.m1\Desktop\Programming-II-VS\Lang52aConsole\obj\Debug\Lang52aConsole.pdb
+C:\Users\arrowood.m1\Documents\GitHub\Programming-II-1\Lang52aConsole\bin\Debug\Lang52aConsole.exe.config
+C:\Users\arrowood.m1\Documents\GitHub\Programming-II-1\Lang52aConsole\obj\Debug\Lang52aConsole.exe
+C:\Users\arrowood.m1\Documents\GitHub\Programming-II-1\Lang52aConsole\obj\Debug\Lang52aConsole.pdb
