@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LP4-2Console", "LP4-2Consol
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prog535Console", "Prog535Console\Prog535Console.csproj", "{1BA8824B-031E-4AE0-8522-318F361985F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lang122a", "lang122a\lang122a.csproj", "{48E99F1D-866F-4D63-B228-292A49915F02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prog122bConsole", "prog122bConsole\prog122bConsole.csproj", "{19364C17-A9AC-44B6-8840-DB4AD515ED4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{1BA8824B-031E-4AE0-8522-318F361985F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BA8824B-031E-4AE0-8522-318F361985F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BA8824B-031E-4AE0-8522-318F361985F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48E99F1D-866F-4D63-B228-292A49915F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48E99F1D-866F-4D63-B228-292A49915F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48E99F1D-866F-4D63-B228-292A49915F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48E99F1D-866F-4D63-B228-292A49915F02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19364C17-A9AC-44B6-8840-DB4AD515ED4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19364C17-A9AC-44B6-8840-DB4AD515ED4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19364C17-A9AC-44B6-8840-DB4AD515ED4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19364C17-A9AC-44B6-8840-DB4AD515ED4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
