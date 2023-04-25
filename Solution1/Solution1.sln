@@ -45,6 +45,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lang122a", "lang122a\lang12
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prog122bConsole", "prog122bConsole\prog122bConsole.csproj", "{19364C17-A9AC-44B6-8840-DB4AD515ED4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test1", "test1\test1.csproj", "{69AB5DD8-CDAA-4529-997A-8AF01C5CFE39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pg310a", "pg310a\pg310a.csproj", "{F7FBBCED-B4D5-495B-83D1-04F1AA11BC74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +139,14 @@ Global
 		{19364C17-A9AC-44B6-8840-DB4AD515ED4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19364C17-A9AC-44B6-8840-DB4AD515ED4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19364C17-A9AC-44B6-8840-DB4AD515ED4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69AB5DD8-CDAA-4529-997A-8AF01C5CFE39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69AB5DD8-CDAA-4529-997A-8AF01C5CFE39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69AB5DD8-CDAA-4529-997A-8AF01C5CFE39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69AB5DD8-CDAA-4529-997A-8AF01C5CFE39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7FBBCED-B4D5-495B-83D1-04F1AA11BC74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7FBBCED-B4D5-495B-83D1-04F1AA11BC74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7FBBCED-B4D5-495B-83D1-04F1AA11BC74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7FBBCED-B4D5-495B-83D1-04F1AA11BC74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
