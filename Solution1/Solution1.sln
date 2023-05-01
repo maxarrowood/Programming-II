@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pg310a", "pg310a\pg310a.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prog347sum", "prog347sum\prog347sum.csproj", "{A8EA366E-2E32-447A-9922-04095F462F62}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calcWithFunctions", "calcWithFunctions\calcWithFunctions.csproj", "{07AA0FFA-A6A3-4643-8B07-BD4FCC5987CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{A8EA366E-2E32-447A-9922-04095F462F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8EA366E-2E32-447A-9922-04095F462F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8EA366E-2E32-447A-9922-04095F462F62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07AA0FFA-A6A3-4643-8B07-BD4FCC5987CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07AA0FFA-A6A3-4643-8B07-BD4FCC5987CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07AA0FFA-A6A3-4643-8B07-BD4FCC5987CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07AA0FFA-A6A3-4643-8B07-BD4FCC5987CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
