@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calcWithFunctions", "calcWi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lang366bConsole", "lang266bConsole\lang366bConsole.csproj", "{2341990A-A526-4364-B978-536484A3B9A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pg435TicketCS", "pg435TicketCS\pg435TicketCS.csproj", "{348864C7-5C48-467C-99EC-7394CB1B9B0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{2341990A-A526-4364-B978-536484A3B9A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2341990A-A526-4364-B978-536484A3B9A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2341990A-A526-4364-B978-536484A3B9A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{348864C7-5C48-467C-99EC-7394CB1B9B0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{348864C7-5C48-467C-99EC-7394CB1B9B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{348864C7-5C48-467C-99EC-7394CB1B9B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{348864C7-5C48-467C-99EC-7394CB1B9B0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
