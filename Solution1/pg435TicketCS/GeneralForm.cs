@@ -34,5 +34,31 @@ namespace pg435TicketCS
         {
             this.myParent.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            int tickNum = int.Parse(textBox1.Text);
+            double tickTotal = 0;
+            double salesTax = 0;
+
+            if (radioButton1.Checked == true) {
+                double tickTotal = tickNum * 20;
+                double salesTax = tickTotal * 0.06;
+            }
+            else if (radioButton2.Checked == true) {
+                double tickTotal = tickNum * 15;
+                double salesTax = tickTotal * 0.06;
+            }
+            else if (radioButton3.Checked == true) {
+                double tickTotal = tickNum * 10;
+                double salesTax = tickTotal * 0.06;
+            }
+
+            double totCost = tickTotal + salesTax;
+
+            label5.Text = "$" + tickTotal;
+            label6.Text = "$" + salesTax;
+            label7.Text = "$" + totCost;
+        }
     }
 }

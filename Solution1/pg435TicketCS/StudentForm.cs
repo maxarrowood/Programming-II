@@ -34,5 +34,17 @@ namespace pg435TicketCS
         {
             this.myParent.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            int ticks = int.Parse(textBox1.Text);
+            int allticks = ticks * 7;
+            double salesTax = allticks * 0.06;
+            double totalCost = salesTax + allticks;
+
+            label5.Text = "$" + allticks;
+            label6.Text = "$" + salesTax;
+            label7.Text = "$" + totalCost;
+        }
     }
 }
