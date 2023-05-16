@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "strInterview8", "strIntervi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "strInterview18", "strInterview18\strInterview18.csproj", "{AB75C025-D8BC-42DC-809D-83593615DE3F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prog514SalesData", "prog514SalesData\prog514SalesData.csproj", "{1018FEA0-8FA0-4070-B5B0-86D43697778A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{AB75C025-D8BC-42DC-809D-83593615DE3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB75C025-D8BC-42DC-809D-83593615DE3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB75C025-D8BC-42DC-809D-83593615DE3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1018FEA0-8FA0-4070-B5B0-86D43697778A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1018FEA0-8FA0-4070-B5B0-86D43697778A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1018FEA0-8FA0-4070-B5B0-86D43697778A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1018FEA0-8FA0-4070-B5B0-86D43697778A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

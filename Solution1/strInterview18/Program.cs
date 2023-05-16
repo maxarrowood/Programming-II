@@ -23,12 +23,14 @@ namespace strInterview18
         static string searchText(string text, string cha)
         {
             int tLen = text.Length;
+            string newtext = "";
 
             for (int lcv = 0; lcv <= tLen; lcv++)
             {
                 if (text.Substring(lcv) == cha)
                 {
-                    text.Remove(lcv);
+                    newtext += text.Remove(lcv);
+                    
                 }
             }
             return text;
