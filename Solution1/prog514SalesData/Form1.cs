@@ -56,7 +56,7 @@ namespace prog514SalesData
             return blnSuccess;
         }
 
-        private decimal GetTotal(decimal[] decValues) {
+        private decimal GetTotal (decimal[] decValues) {
             decimal decTotal = 0;
             int intCount;
 
@@ -64,6 +64,35 @@ namespace prog514SalesData
                 decTotal += decValues[intCount];
             }
             return decTotal;
+        }
+
+        private decimal GetAverage (decimal[] decValues) {
+            return GetTotal(decValues) / decValues.Length;
+        }
+
+        private decimal GetHighest(decimal[] decValues) {
+            int intCount;
+            decimal decHighest = decValues[0];
+
+            for (intCount = 1; intCount < decValues.Length; intCount++) {
+                if (decValues[intCount] > decHighest) {
+                    decHighest = decValues[intCount];
+                }
+            }
+            return decHighest;
+        }
+
+        private decimal GetLowest(decimal[] decValues) {
+            int intCount;
+            decimal decLowest = decValues[0];
+
+            for (intCount = 1; intCount < decValues.Length; intCount++){
+                if (decValues[intCount] > decLowest) {
+                    decLowest = decValues[intCount];
+                }
+            }
+
+            return decLowest;
         }
     }
 }
